@@ -1,10 +1,6 @@
-# websitev2
+# dcmaglione.com
 
 Personal website built and designed using the Astro framework.
-
-## Description
-
-This website was completed over Spring '23 as a chance to replace my rather juvenile website from Summer '22. Rather than acting as a fancy resume, this new site was created with a more minimalistic vision, and matter of fact vision. I am not a web developer and certainly not a UI/UX designer, and I would say this website conveys that pretty well.
 
 ## Project Structure
 
